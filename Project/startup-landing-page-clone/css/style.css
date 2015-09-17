@@ -1,0 +1,22 @@
+body {
+	background-color: gray;
+}
+
+div {
+	border: 1px dashed black;
+
+}
+
+/*navi styler*/
+.top-navi {
+	background-color: #fff;
+
+}
+
+.top-navi > .content {
+	width: 990px;
+	height: 70px;
+	margin: 0 auto;
+
+
+}
